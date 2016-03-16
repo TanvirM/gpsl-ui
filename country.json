@@ -1,0 +1,26 @@
+{
+  "country": [
+    {},
+    {
+      "id": "01",
+      "name": "China",
+      "capital": "Beijing",
+      "divisions": "[01, 02, 03]",
+      "districts": "[01, 02, 03]"
+    },
+    {
+      "id": "02",
+      "name": "Bangladesh",
+      "capital": "Dhaka",
+      "divisions": "[04,05,06,07,08,09,10,11]",
+      "Districts": "[04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31]"
+    },
+    {
+      "id": "03",
+      "name": "Singapore",
+      "Capital": "Singapore City",
+      "Divisions": "[12,13,14,15,16]",
+      "Districts": "[32,33,34,35,36]"
+    }
+  ]
+}
